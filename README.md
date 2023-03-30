@@ -1,6 +1,14 @@
 # Exam_Rank_06
 
-*******  en cours  **  non valide ********
+*******  OK le 30/03/2023  100 % ********
+
+rendu_Exam_Rank06_230330_OK
+
+*****************************************
+
+*****************************************
+
+
 
 sujet + main + mini_serv :
 https://github.com/adbenoit-9/42_exams
