@@ -1,0 +1,7 @@
+gcc mini_serv.c
+./a.out 8000
+
+ouvrir deux nouveau terminaux
+
+nc localhost 8000 // dans chacun
+test              // messages
